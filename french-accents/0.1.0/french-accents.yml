@@ -4,9 +4,6 @@ name: french-accents
 parent: default
 
 matches:
-  - trigger: ":hw"
-    replace: "hello world"
-
   - trigger: "e'"
     replace: "é"
 
