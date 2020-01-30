@@ -32,5 +32,5 @@ Text expansions match Vim's `:digraph` commands.
 | `` A` `` | À |
 | `A^` | Â |
 | `OE` | Œ |
-| `C,` | ç |
+| `C,` | Ç |
 
