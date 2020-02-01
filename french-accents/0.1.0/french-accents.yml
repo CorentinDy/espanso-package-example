@@ -13,6 +13,9 @@ matches:
   - trigger: "e^"
     replace: "ê"
 
+  - trigger: "e:"
+    replace: "ë"
+
   - trigger: "o^"
     replace: "ô"
 
@@ -22,11 +25,29 @@ matches:
   - trigger: "a^"
     replace: "â"
 
+  - trigger: "i^"
+    replace: "î"
+
   - trigger: "i:"
     replace: "ï"
 
+  - trigger: "u`"
+    replace: "ù"
+
+  - trigger: "u^"
+    replace: "û"
+
+  - trigger: "u:"
+    replace: "ü"
+
   - trigger: "oe"
     replace: "œ"
+
+  - trigger: "ae"
+    replace: "æ"
+
+  - trigger: "y:"
+    replace: "ÿ"
 
   - trigger: "c,"
     replace: "ç"
@@ -40,6 +61,9 @@ matches:
   - trigger: "E^"
     replace: "Ê"
 
+  - trigger: "E:"
+    replace: "Ë"
+
   - trigger: "O^"
     replace: "Ô"
 
@@ -49,9 +73,29 @@ matches:
   - trigger: "A^"
     replace: "Â"
 
+  - trigger: "I^"
+    replace: "Î"
+
+  - trigger: "I:"
+    replace: "Ï"
+
+  - trigger: "U`"
+    replace: "Ù"
+
+  - trigger: "U^"
+    replace: "Û"
+
+  - trigger: "U:"
+    replace: "Ü"
+
   - trigger: "OE"
     replace: "Œ"
 
+  - trigger: "AE"
+    replace: "Æ"
+
+  - trigger: "Y:"
+    replace: "Ÿ"
+
   - trigger: "C,"
     replace: "Ç"
-
