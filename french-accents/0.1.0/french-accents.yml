@@ -40,10 +40,10 @@ matches:
   - trigger: "u:"
     replace: "ü"
 
-  - trigger: "oe"
+  - trigger: "o:e"
     replace: "œ"
 
-  - trigger: "ae"
+  - trigger: "a:e"
     replace: "æ"
 
   - trigger: "y:"
@@ -88,10 +88,10 @@ matches:
   - trigger: "U:"
     replace: "Ü"
 
-  - trigger: "OE"
+  - trigger: "O:E"
     replace: "Œ"
 
-  - trigger: "AE"
+  - trigger: "A:E"
     replace: "Æ"
 
   - trigger: "Y:"
